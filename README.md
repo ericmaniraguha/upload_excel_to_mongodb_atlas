@@ -81,5 +81,3 @@ MongoDB-Excel-Uploader/
 
 ### **📜 License**
 MIT License - Modify and use freely. Attribution appreciated!
-
-Copy-paste ready format with code blocks preserved! For the Python script, let me know and I'll share it in the same easy-to-copy format 😊
